@@ -1,5 +1,5 @@
 # Dynamic Ensemble Associative Learning
-This repo contains the implementation of the paper " Md Rayhan Kabir, Osmar R Zaiane, ”Dynamic Ensemble Associative
+This repo contains the implementation of the paper "Dynamic Ensemble Associative
 Learning”, accepted for publication on International Symposium on Foundations
 and Applications of Big Data Analytics, FAB 2022, Istanbul,
 Turkey, November 10-13, 2022."
